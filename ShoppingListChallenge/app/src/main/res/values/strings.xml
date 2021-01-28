@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping List Challenge</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_cheese">Cheese</string>
+    <string name="item_apple">Apple</string>
+    <string name="item_orange">Orange</string>
+    <string name="item_mango">Mango</string>
+    <string name="item_milk">Milk</string>
+    <string name="item_rice">Rice</string>
+    <string name="item_banana">Banana</string>
+    <string name="item_potato">Potato</string>
+    <string name="item_cherry">Cherry</string>
+    <string name="item_egg">Egg</string>
+    <string name="no_empty_list_toast">There is no empty list.</string>
+</resources>
